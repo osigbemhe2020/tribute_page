@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(224, 208, 186);
+}
+.headText{
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1px;
+
+}
+.pic{
+    width: 60%;
+    height: 400px;
+    margin: 4px auto;
+}
+
+li{ 
+    margin: 14px 1px;
+    color: rgb(24, 21, 21);
+    
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-right:20px;
+}
