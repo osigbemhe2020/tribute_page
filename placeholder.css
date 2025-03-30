@@ -27,3 +27,44 @@ li{
     font-size: 1.2em;
     margin-right:20px;
 }
+.myhead{
+    text-align: center;
+    padding : 10px;
+    background-color:rgb(230, 204, 170);
+   }
+
+ .myImg  {
+   text-align: center;
+   padding : 10px;
+   margin : auto;
+   width : 80%;
+   background-color:rgb(224, 208, 186);
+   }
+
+   .mybody  {
+   padding : 10px;
+   margin : auto ;
+   width : 50%;
+   background-color:rgb(230, 204, 170);
+   }
+
+   @media only screen and (max-width: 500px) {
+    
+     .myImg  {
+       text-align: center;
+       padding : 0px;
+       width : 100%;
+       }
+    
+       .mybody  {
+       padding : 10px;
+       width : 80%;
+       }
+
+       .pic{
+        width: 80%;
+        height: auto;
+        margin: 4px auto;
+    }
+    
+   }
